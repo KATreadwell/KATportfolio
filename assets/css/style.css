@@ -106,12 +106,6 @@ body {
   padding: 10px;
 }
 
-.removeUnderline{
-  text-decoration: none;
-}
-
-
-
 
 /* Portfolio */
 
@@ -127,6 +121,10 @@ body {
 .pics{
   width: 200px;
   height: 150px;
+}
+
+a:hover{
+  text-decoration: none;
 }
 
 .footerwrap{
